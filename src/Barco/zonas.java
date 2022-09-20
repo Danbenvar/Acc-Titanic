@@ -2,6 +2,6 @@ package Barco;
 
 public enum zonas {
 	
-	proa, popa, babor, estriborhdhjdi
+	proa, popa, babor, estribor
 	
 }
